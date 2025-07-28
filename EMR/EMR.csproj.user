@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Doctorform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImageViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab_directorform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Receptionistform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="systemadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Controls\database.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\lab_database.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\medicalhistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\patientdata.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\p_appointment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\p_database.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\p_dateassign.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\p_register.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\Uploadreport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controls\U_Register.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
